@@ -1,0 +1,16 @@
+{
+  "name": "rocket-league-api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Julio Olivera <julio.olvr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint **/*.js"
+  },
+  "dependencies": {
+    "got": "^8.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.0"
+  }
+}
